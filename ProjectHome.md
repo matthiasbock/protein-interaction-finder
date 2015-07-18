@@ -1,0 +1,1 @@
+Analyze high-throughput interaction studies and predict cooperating proteins
